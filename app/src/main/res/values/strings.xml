@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anews Demo</string>
+    <string name="load_failed">Could not load news. Press to retry.</string>
+</resources>
